@@ -61,4 +61,4 @@ Doctorat|1003|Nadia El Fassi|3.90|Dr. Karim Idrissi|3
 ## Auteurs
 
 - Marwa Baaoui
-- Binome : Ghita Chouladi
+- Ghita Chouladi
